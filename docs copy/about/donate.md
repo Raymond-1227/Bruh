@@ -1,0 +1,3 @@
+# Donate
+
+Currently, I don't have a bank, or a PayPal. If you want to donate me, you can buy me virtual items such as Discord Nitro, Hypixel ranks, or anything else. But well, I don't think that anyone would donate me...
