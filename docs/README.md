@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: images/portrait.jpg
+heroImage: /images/portrait.jpg
 heroText: Raymond Hsu
 tagline: A kid who doesn't how to code properly.
 actionText: About Me →
