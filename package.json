@@ -1,0 +1,20 @@
+{
+	"name": "raymond-site",
+	"version": "1.1.0",
+	"description": "totally not a description",
+	"scripts": {
+		"start": "vuepress dev",
+		"build": "vuepress build"
+	},
+	"repository": "https://github.com/raymond-1227/raymond-1227.github.io",
+	"keywords": [
+		"VuePress",
+		"Gitlab",
+		"Pages"
+	],
+	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
+	"license": "MIT",
+	"devDependencies": {
+		"vuepress": "1.4.1"
+	}
+}
